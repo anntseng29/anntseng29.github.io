@@ -1,0 +1,111 @@
+*{box-sizing: border-box;}
+h2,h3,p{margin: 0;}
+img{display: block;}
+
+.warp{
+    width: 1280px;
+    height: 4353px;
+    margin: auto;
+    padding-top: 53px;
+    position: relative;
+    .icon00{
+        position: absolute;
+        z-index: 0;
+        top: 0px;
+        left: 0px;
+    }
+    background: #D9C2B2;
+    
+}
+
+main{
+    color: #6E512D;
+    width: 1241px;
+    height: 318px;
+    padding-left: 881px;
+    padding-top: 40px;
+    margin-top: 35px;
+    margin-left: 19.5px;
+    margin-bottom: 50px;
+    border-radius: 30px;
+    background-image: url(image/main.png);
+}
+
+section{
+    padding-left: 141.5px;
+    gap: 500px;
+}
+
+.card{
+    color: #000;
+    width: 997px;
+    height: 420px;
+    margin-top: 50px;
+    border-radius: 50px;
+    position: relative;
+    border: 5px solid #E4D0D0;
+    background-color: #E9E6DF;
+}
+
+
+.card-title{
+    font-size: 48px;
+    margin-bottom: 25px;
+    word-spacing: 9.6px ;
+}
+
+.card-intro{
+    font-size: 32px;
+    width: 505px;
+    margin: auto;
+}
+
+
+.icon1{
+    position: absolute;
+    z-index: 0;
+    top: 255px;
+    left: -100px;
+}
+
+.icon2{
+    position: absolute;
+    z-index: 0;
+    top: 220px;
+    left: 790px;
+}
+
+.icon3{
+    position: absolute;
+    z-index: 0;
+    top: 220px;
+    left: -120px;
+}
+
+.icon4{
+    position: absolute;
+    z-index: 0;
+    top: 270px;
+    left: 827px;
+}
+
+.icon5{
+    position: absolute;
+    z-index: 0;
+    top: 298px;
+    left: -70px;
+}
+
+.icon6{
+    position: absolute;
+    z-index: 0;
+    top: 160px;
+    left: 780px;
+}
+
+.icon7{
+    position: absolute;
+    z-index: 0;
+    top: 310px;
+    left: 280px;
+}
