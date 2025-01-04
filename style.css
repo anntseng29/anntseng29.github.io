@@ -110,3 +110,10 @@ section{
     top: 310px;
     left: 280px;
 }
+
+.icon8{
+    position: absolute;
+    z-index: 0;
+    top: 278px;
+    left: 250px;
+}
